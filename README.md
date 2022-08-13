@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Reference
 [Project based on Zoaib Khan](https://zoaibkhan.com/blog/create-a-responsive-sidebar-menu-with-angular-material/)
+
+![header image](https://github.com/martenorio/side-bar-responsive-angular/blob/main/src/screen.PNG?raw=true)
